@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "367305310719",
+    "project_id": "sme360-797a8",
+    "storage_bucket": "sme360-797a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367305310719:android:c0c45037c750141a19a7ca",
+        "android_client_info": {
+          "package_name": "com.example.sme360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367305310719-f5kib3c3s0rl60813ilb435a5oqbj59n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sme360",
+            "certificate_hash": "41ce7ddcfa0278f55501e9e5e2ac0c799fb3923c"
+          }
+        },
+        {
+          "client_id": "367305310719-rghobn79jkk2fbdbl6rp5774fvrohuod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTTCQF3SxpIyeC2fu5A-9WItVinZ-NKd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367305310719-rghobn79jkk2fbdbl6rp5774fvrohuod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
